@@ -16,7 +16,7 @@ This project implements the CURE (Clustering Using Representatives) algorithm to
 
 ---
 
-## 2. Breast Cancer Prevention using K-Means Algorithm
+## 2. Breast Cancer Prevention Using K-Means Algorithm
 
 ### Overview
 This project applies the K-Means clustering algorithm to classify breast cancer cells based on the Wisconsin Diagnostic Breast Cancer dataset. The dataset contains 30 features extracted from cell images, and the goal is to cluster the data for cancer detection.
@@ -44,7 +44,7 @@ This project uses the K-Means algorithm for image compression. The algorithm com
 ## 4. DBSCAN Clustering and Visualization on Different Data Shapes
 
 ### Overview
-This project uses the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm to cluster and visualize datasets with different shapes. DBSCAN is particularly effective for identifying clusters of arbitrary shapes and handling noise.
+This project implements the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm from scratch and visualizes its performance on datasets with different shapes. DBSCAN is particularly effective for identifying clusters of arbitrary shapes and handling noise.
 
 ### Key Implementation Steps
 - Implement the DBSCAN algorithm on datasets with different geometric shapes.
